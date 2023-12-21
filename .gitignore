@@ -1,0 +1,8 @@
+# Ignoramos cualquier carpeta relacionada con imagenes
+**images
+**images_notebook
+
+# Ignoramos cualquier carpeta de gestión de memoria de macOS
+**DS_Store
+
+**__pycache__
