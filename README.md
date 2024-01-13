@@ -3,15 +3,18 @@
 ![Status badge](https://img.shields.io/badge/Status-En_desarrollo-22AA22)
 ![License badge](https://img.shields.io/badge/License-Sin_definir-AA5590)
 
-El objetivo principal de este repositorio es almacenar, gestionar y exponer todos los proyectos que he realizado durante mis estudios en la Facultad de Matemáticas e Informática. El repositorio está fragmentado en 4 subdirectorios principales: `Primero`, `Segundo`, `Tercero` y `Cuarto`; en los cuales se encuentran todas las asignaturas divididas por curso.
+> [!IMPORTANT]
+> Si eres **estudiante** y estas cursando **primero** o **segundo**, agradeceria que me envies por correo el enunciado de las prácticas y los problemas que estés cursando, ya que con el pasar del tiempo los he perdido.
+
+El objetivo principal de este repositorio es **almacenar**, **gestionar** y **exponer** todos los proyectos que he realizado durante mis estudios en la Facultad de Matemáticas e Informática. El repositorio está fragmentado en 4 subdirectorios principales: `Primero`, `Segundo`, `Tercero` y `Cuarto`; en los cuales se encuentran todas las asignaturas divididas por curso.
 
 Actualmente el repositorio se encuentra en desarrollo  porque todavía no he terminado el grado. Por este motivo, aún están pendiente de ser subidas muchas de las prácticas y los problemas del cuarto año. Además todavía tengo pendiente subir todo lo realizado durante los primeros años de carrera.
 
 > [!TIP]
-> Con ayuda del índice se puede acceder a cada una de las asignaturas.
+> Con ayuda del índice se puede acceder a cada una de las asignaturas de forma directa.
 
 ## Estructura general
-Dentro de cada asignatura se encuentra un archivo `README.md` en el que se explica de forma resumida el contenido estudiado, un subdirectorio `problemas` en el que estarán todos los ejercicios prácticos (en el caso de que haya), y un subdirectorio `practicas` que contiene todas los proyectos prácticos.
+Dentro de cada asignatura se encuentra un archivo `README.md` en el que se explica de forma resumida el **contenido** estudiado, un subdirectorio `problemas` en el que estarán todos los **ejercicios prácticos** (en el caso de que haya), y un subdirectorio `practicas` que contiene todas los **proyectos prácticos**.
 
 ## Contenido
 - [Primero](https://github.com/neorefraction/Universitat-Barcelona/tree/main/Primero)
