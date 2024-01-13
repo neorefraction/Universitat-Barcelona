@@ -3,14 +3,17 @@
 ![Status badge](https://img.shields.io/badge/Status-En_desarrollo-22AA22)
 ![License badge](https://img.shields.io/badge/License-Sin_definir-AA5590)
 
-El objetivo principal de este repositorio es almacenar y gestionar todos los proyectos que he realizado durante mi estudio en la carrera de ingeniería informática en la Universidad de Barcelona. Dentro se encuentran las prácticas desarrolladas en todas las asignaturas de la carrera, que constan de una parte experimental, divididas en cursos. Con ayuda del índice se puede acceder a cada una de las asignaturas.
+El objetivo principal de este repositorio es almacenar, gestionar y exponer todos los proyectos que he realizado durante mis estudios en la Facultad de Matemáticas e Informática. El repositorio está fragmentado en 4 subdirectorios principales: `Primero`, `Segundo`, `Tercero` y `Cuarto`; en los cuales se encuentran todas las asignaturas divididas por curso.
 
-Actualmente el proyecto se encuentra en proceso porque todavía no he terminado el grado, por lo que las asignaturas optativas de 4º aún las desconozco, aun así puedo  asegurar que están relacionadas con el area de la IA.
+Actualmente el repositorio se encuentra en desarrollo  porque todavía no he terminado el grado. Por este motivo, aún están pendiente de ser subidas muchas de las prácticas y los problemas del cuarto año. Además todavía tengo pendiente subir todo lo realizado durante los primeros años de carrera.
 
+> [!TIP]
+> Con ayuda del índice se puede acceder a cada una de las asignaturas.
 
+## Estructura general
+Dentro de cada asignatura se encuentra un archivo `README.md` en el que se explica de forma resumida el contenido estudiado, un subdirectorio `problemas` en el que estarán todos los ejercicios prácticos (en el caso de que haya), y un subdirectorio `practicas` que contiene todas los proyectos prácticos.
 
 ## Contenido
-
 - [Primero](https://github.com/neorefraction/Universitat-Barcelona/tree/main/Primero)
     - [Diseño digital Básico](https://github.com/neorefraction/Universitat-Barcelona/tree/main/Primero/Disenio-Digital-Basico)
     - [Programación I](https://github.com/neorefraction/Universitat-Barcelona/tree/main/Primero/Programacion-I)
